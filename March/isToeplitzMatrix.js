@@ -1,3 +1,5 @@
+//A matrix is Toeplitz if every diagonal from top-left to bottom-right has the same elements.
+
 var isToeplitzMatrix = function(matrix) {
     
     //console.log(value)
